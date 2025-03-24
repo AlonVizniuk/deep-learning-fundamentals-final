@@ -1,4 +1,4 @@
-## 🤖 Explainer (a.k.a. How Not to Break Things)
+## 🤖 README (a.k.a. How Not to Break Things)
 
 Wanna run the code without crying? Follow these magical steps:
 
